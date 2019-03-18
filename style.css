@@ -14,7 +14,7 @@ body, html {
 .split-left{
   width: 100%;
   height: 70vh;
-  background-image: url("../image/bg-1.jpg");
+  background-image: url("http://www.danielmordev.github.io/bg-1.jpg");
 }
 #header-content{
   padding-top: 3rem;
